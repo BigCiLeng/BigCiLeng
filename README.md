@@ -1,6 +1,6 @@
 ### Hi there, this is BigCileng👋
 - 🌱 I am a First-year Computer Science Master's student at CAD Research Center, Tongji University.
-- 📫 My email is w15516937650 (at) outlook (dot) com, feel free to contact me :).
+- 📫 My email is bigcileng (at) outlook (dot) com, feel free to contact me :).
 <!--
 **BigCiLeng/BigCiLeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
