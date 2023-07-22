@@ -5,7 +5,7 @@
 </p>
 
 - 🌱 I am a First-year Computer Science Master's student at CAD Research Center, Tongji University.
-- My research interest includes 3D Computer Vsion(Stereo, Nerf, SDF) & Multi Module
+- My research interest includes 3D Computer Vsion(Stereo, NeRF, SDF) & Multi Module
 - 📫 My email is bigcileng (at) outlook (dot) com, feel free to contact me :).
 - Language: English 🇬🇧 / 中文 🇨🇳
 
