@@ -8,6 +8,7 @@
 - 📖 My research interest includes 3D Computer Vsion(Stereo, NeRF, SDF) & Multi Module
 - 📫 My email is bigcileng (at) outlook (dot) com, feel free to contact me :).
 - 🗣️ Language: English 🇬🇧 / 中文 🇨🇳
+- 🔗 Welcome to my [blog](https://bigcileng.github.io/) and leave some comments.
 
 <p align="center">
   <a href="https://github.com/BigCiLeng" class="rich-diff-level-one">
