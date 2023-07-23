@@ -7,7 +7,7 @@
 - 🌱 I am a First-year Computer Science Master's student at CAD Research Center, Tongji University.
 - 📖 My research interest includes 3D Computer Vsion(Stereo, NeRF, SDF) & Multi Modal
 - 📫 My email is bigcileng (at) outlook (dot) com, feel free to contact me :).
-- 🗣️ Language: English 🇬🇧 / 中文 🇨🇳
+- 🗣️ Language: English 🇺🇸 / 中文 🇨🇳
 - 🔗 Welcome to my [blog](https://nextjs-notion-rouge-omega.vercel.app/) and leave some comments.
 
 <p align="center">
