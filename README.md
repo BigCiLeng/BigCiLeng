@@ -9,6 +9,7 @@
 - 📫 My email is bigcileng (at) outlook (dot) com, feel free to contact me :).
 - 🗣️ Language: English 🇺🇸 / 中文 🇨🇳
 - 🔗 Welcome to my [blog](https://nextjs-notion-rouge-omega.vercel.app/) and leave some comments.
+- 🎒 This is my [CV site](https://bigcileng.github.io/).
 
 <p align="center">
   <a href="https://github.com/BigCiLeng" class="rich-diff-level-one">
