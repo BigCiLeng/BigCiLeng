@@ -5,7 +5,7 @@
 <img  alt="JPG" src="https://raw.githubusercontent.com/BigCiLeng/picgo_photos/main/img/cardphoto.jpg" width="200" title="Say HI">
 </p>
 
-- 🌱 I am a First-year Computer Science Master's student at CAD Research Center, Tongji University.
+- 🌱 I am a second-year Computer Science Master's student at CAD Research Lab, Tongji University.
 - 📖 My research interest includes 3D Computer Vsion(Stereo, NeRF, SDF) & Multi Modal.
 - 📫 My email is bigcileng (at) outlook (dot) com, feel free to contact me :).
 - 🗣️ Language: English 🇺🇸 / 中文 🇨🇳.
